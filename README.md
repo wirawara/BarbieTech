@@ -1,2 +1,2 @@
 # BarbieTech 🎀 🖥️ 
-tech media for barbietech at belowthecode 
+tech media for barbietech at below.the.code 
